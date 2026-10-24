@@ -90,15 +90,15 @@ Swiggy Data Analysis/
 │   └── Swiggy Raw Data Excel.xlsx
 ├── Data Analysis And Dashboard/
 │   ├── Swiggy Data Analysis And Dashboard.xlsx
-│   └── Images/
-│       ├── Dashboard.png
-│       ├── swiggy_logo.png
-│       ├── swiggy_boy.png
-│       ├── checkout.png
-│       ├── economics.png
-│       ├── rating.png
-│       ├── revenue.png
-│       └── star.png
+│── Images/
+│   ├── Dashboard.png
+│   ├── swiggy_logo.png
+│   ├── swiggy_boy.png
+│   ├── checkout.png
+│   ├── economics.png
+│   ├── rating.png
+│   ├── revenue.png
+│   └── star.png
 ├── Problem Statement/
 │   └── Swiggy Problem Statement.docx
 └── README.md
